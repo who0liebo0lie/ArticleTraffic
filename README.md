@@ -57,6 +57,8 @@ pip install -r requirements.txt
 # Run training
 python src/train_model.py --config configs/bert.yaml
 
+
+```
 ---
 
 ## 🧠 Lessons Learned
