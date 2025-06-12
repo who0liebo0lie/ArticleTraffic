@@ -36,6 +36,7 @@ This project analyzes article structures to uncover latent patterns using advanc
 
 ## 🖼️ Visual Results
 
+
 ### Training Accuracy & Loss
 ![Training Plot](extracted_images/image_1.png)
 
