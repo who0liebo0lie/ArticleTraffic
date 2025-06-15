@@ -3,7 +3,7 @@ A NLP model to discovery which articles are most appreciated in a category.
 
 # 🧠 Article Pattern Detection using NLP & Deep Learning
 
-This project analyzes article structures to uncover latent patterns using advanced natural language processing (NLP) and deep learning techniques. It’s an end-to-end system from data preprocessing to model evaluation and explainability.
+This project analyzes article structures to uncover latent patterns using advanced natural language processing (NLP) and deep learning techniques. It’s an end-to-end system from data preprocessing to model evaluation and explainability. Goal would be to identify the types of articles readers found the most userful/interesting in order to produce more in the general theme. 
 
 ---
 
